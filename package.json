@@ -1,5 +1,5 @@
 {
-  "name": "@serverless/tencent-koa",
+  "name": "@daqi/tencent-koa",
   "version": "2.2.1",
   "description": "Tencent Koa Component",
   "repository": "serverless-components/tencent-koa",
@@ -15,7 +15,7 @@
   "dependencies": {
     "@serverless/core": "^1.1.2",
     "@serverless/tencent-apigateway": "^2.1.2",
-    "@serverless/tencent-scf": "^2.1.1",
+    "@daqi/tencent-scf": "^2.1.1",
     "ext": "^1.4.0",
     "fs-extra": "^8.1.0",
     "prettier": "^1.19.1",
